@@ -30,7 +30,7 @@ const App = props => {
             </Router>
             <Footer>
                 <Row xright>
-                    <span>2021 - Patrick Allan Finances.</span>
+                    <span>2021 - Patrick Allan</span>
                 </Row>
             </Footer>
         </Container>
